@@ -1,0 +1,14 @@
+shell2shell 0.1
+by akram abed-eslem chaima
+under GPL
+email : digitalakram@gmail.com
+how to install :
+---------------
+
+1) extract tar.gz file
+2) run setup with " sudo sh ./setup.sh "
+
+How To Use :
+-------------
+
+in terminal type " shell2shell -f base_command arg1 ... -t your_command " 
